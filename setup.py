@@ -6,7 +6,7 @@ long_description = readme.read_text()
 
 setup(
     name='netbox-prefix-map',
-    version='0.1',
+    version='0.1.1',
     description='NetBox plugin to view usage of prefixes in an IP map',
     long_description=long_description,
     long_description_content_type="text/markdown",
