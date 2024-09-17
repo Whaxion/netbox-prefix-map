@@ -1,0 +1,3 @@
+include README.md
+recursive-include netbox_prefix_map/templates *
+recursive-include netbox_prefix_map/static *
